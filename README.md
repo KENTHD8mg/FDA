@@ -1,7 +1,4 @@
-# FDA
-Fundamentals of Distributed Applications
-
-# 《分布式应用技术基础》
+# 《分布式应用技术基础之归终》
 
 ## 秒杀
 
